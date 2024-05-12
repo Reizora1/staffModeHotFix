@@ -1,0 +1,4 @@
+name: staffModeHotFix
+version: '${project.version}'
+main: me.reizora.dev.staffmodehotfix.StaffModeHotFix
+api-version: '1.20'
